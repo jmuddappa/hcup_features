@@ -14,5 +14,5 @@ This requires np and pandas to be installed.
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Dhananjay Muddappa**
 
